@@ -10,4 +10,4 @@ Step to use:
 -Copy and save the sql script to a databse tool
 -Download/Copy the Course, CourseQueries and StudyPlanningTool files to local environment and run the StudyPlanningTool.
 
-![status](https://user-images.githubusercontent.com/25293506/33787243-1a1c3eb4-dc75-11e7-8a81-b4bca961c994.PNG)
+![PSP](https://user-images.githubusercontent.com/25293506/33788550-abedd626-dc7b-11e7-97df-753844a7893e.png)
