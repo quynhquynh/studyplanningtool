@@ -8,5 +8,5 @@ The purpose of this tool is to create a study planning tool and save in a databs
 
 Step to use: 
 -Copy and save the sql script to a databse tool
--Download/Clone/Copy the Course, CourseQueries and StudyPlanningTool files to local environment and run the StudyPlanningTool.
+-Download/Copy the Course, CourseQueries and StudyPlanningTool files to local environment and run the StudyPlanningTool.
 
